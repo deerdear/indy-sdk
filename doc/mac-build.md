@@ -26,5 +26,6 @@
    ```
    git clone https://github.com/hyperledger/indy-sdk.git
    cd ./indy-sdk/libindy
+   cargo update
    cargo build
    ```
